@@ -1,0 +1,6 @@
+{
+  "name": "FrigoFit",
+  "description": "Generatore anti-spreco di ricette su misura da foto di frigo o scontrini con dosaggio calorico preciso.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
